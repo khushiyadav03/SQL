@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/khushiyadav03/SQL/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/khushiyadav03/SQL/tree/master/1840-maximum-building-height) |
+## Math
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/khushiyadav03/SQL/tree/master/1840-maximum-building-height) |
+## Sorting
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/khushiyadav03/SQL/tree/master/1840-maximum-building-height) |
 <!---LeetCode Topics End-->
