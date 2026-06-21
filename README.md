@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khushiyadav03/SQL/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/khushiyadav03/SQL/tree/master/1840-maximum-building-height) |
 ## Math
 |  |
@@ -16,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khushiyadav03/SQL/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/khushiyadav03/SQL/tree/master/1840-maximum-building-height) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khushiyadav03/SQL/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khushiyadav03/SQL/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
