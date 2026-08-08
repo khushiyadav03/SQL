@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/khushiyadav03/SQL/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushiyadav03/SQL/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushiyadav03/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushiyadav03/SQL/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushiyadav03/SQL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushiyadav03/SQL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/khushiyadav03/SQL/tree/master/2063-vowels-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushiyadav03/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushiyadav03/SQL/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/khushiyadav03/SQL/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khushiyadav03/SQL/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushiyadav03/SQL/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/khushiyadav03/SQL/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiyadav03/SQL/tree/master/1301-number-of-paths-with-max-score) |
 | [2063-vowels-of-all-substrings](https://github.com/khushiyadav03/SQL/tree/master/2063-vowels-of-all-substrings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushiyadav03/SQL/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushiyadav03/SQL/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushiyadav03/SQL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushiyadav03/SQL/tree/master/3620-network-recovery-pathways) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushiyadav03/SQL/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushiyadav03/SQL/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushiyadav03/SQL/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
