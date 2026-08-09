@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushiyadav03/SQL/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khushiyadav03/SQL/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/khushiyadav03/SQL/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushiyadav03/SQL/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiyadav03/SQL/tree/master/1301-number-of-paths-with-max-score) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushiyadav03/SQL/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khushiyadav03/SQL/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
 | [1840-maximum-building-height](https://github.com/khushiyadav03/SQL/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushiyadav03/SQL/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/khushiyadav03/SQL/tree/master/2063-vowels-of-all-substrings) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/khushiyadav03/SQL/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiyadav03/SQL/tree/master/1301-number-of-paths-with-max-score) |
 | [2063-vowels-of-all-substrings](https://github.com/khushiyadav03/SQL/tree/master/2063-vowels-of-all-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushiyadav03/SQL/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khushiyadav03/SQL/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushiyadav03/SQL/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khushiyadav03/SQL/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -254,4 +258,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/khushiyadav03/SQL/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
