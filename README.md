@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/khushiyadav03/SQL/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushiyadav03/SQL/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khushiyadav03/SQL/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/khushiyadav03/SQL/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushiyadav03/SQL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Combinatorics
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/khushiyadav03/SQL/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/SQL/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushiyadav03/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushiyadav03/SQL/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -282,4 +285,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/khushiyadav03/SQL/tree/master/2029-stone-game-ix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/khushiyadav03/SQL/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/khushiyadav03/SQL/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/khushiyadav03/SQL/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
