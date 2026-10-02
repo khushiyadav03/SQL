@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushiyadav03/SQL/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/khushiyadav03/SQL/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushiyadav03/SQL/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/khushiyadav03/SQL/tree/master/1189-maximum-number-of-balloons) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushiyadav03/SQL/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/khushiyadav03/SQL/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/khushiyadav03/SQL/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/khushiyadav03/SQL/tree/master/1140-stone-game-ii) |
@@ -299,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/khushiyadav03/SQL/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khushiyadav03/SQL/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khushiyadav03/SQL/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
